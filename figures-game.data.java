@@ -1,0 +1,6 @@
+{figure} Kraby = [kraby.dae]
+{figure} MoniMi = [monimimi.dae]
+{figure} MinoMo = [minomo.dae]
+{figure} KochIchy = [kochichy.dae]
+{figure} Hompfu = [hompfu.dae]
+{figure} Steinomonstrus = [steinomonstrus.dae]

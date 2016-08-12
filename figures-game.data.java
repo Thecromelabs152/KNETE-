@@ -24,3 +24,7 @@
 {figure} Bäruso = [bäruso.dae]
 {figure} FeeKiray = [feekiray.dae]
 {figure} Super Hugo = [superhugo.dae]
+{figure} Lingius = [linguis.dae]
+{figure} Fliegus = [fliegus.dae]
+{figure} Fliegos = [fliegos.dae]
+{figure} BioschBiosch = [bioschbiosch.dae]

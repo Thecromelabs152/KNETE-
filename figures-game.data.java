@@ -41,3 +41,5 @@
 {figure} TintusAsi = [tintusasi.dae]
 {figure} TintusOgi = [tintusogi.dae]
 {figure} Fischosit = [fischoit.dae]
+{figure} Spikey = [spikey.dae]
+{figure} Fischoso = [fischoso.dae]

@@ -60,3 +60,6 @@
 {figure} Gugio = [gugio.dae]
 {figure} Potiu = [potiu.dae]
 {figure} Abbioso = [abbioso.dae]
+{figure} Abiakios = [abiakios.dae]
+{item} Coins = [coin.dae].{function:select}.{function:buy}
+{item} ZoikuTaller = [zoikutaller.dae].{function:select}.{function:buy}
